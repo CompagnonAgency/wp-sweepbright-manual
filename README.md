@@ -31,7 +31,7 @@
 8. [Multilanguage](9.-Multilanguage.md)
 9. [License](License.md)
 10. [Support](Support.md)
-11. [Terms & Conditions](Terms-&-conditions.md)
+11. [Terms & Conditions](Terms-%26-Conditions.md)
 
 ## 2. License
 
