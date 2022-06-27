@@ -24,7 +24,7 @@
 1. [Installation](2.-Installation.md)
 2. [Dashboard](3.-Dashboard.md)
 3. [Settings](4.-Settings.md)
-4. [Publishing in SweepBright](5.-Publishing-in-sweepbright.md)
+4. [Publishing in SweepBright](5.-Publishing-in-SweepBright.md)
 5. [Retrieving data](6.-Retrieving-data.md)
 6. [Helpers](7.-Helpers.md)
 7. [Filtering properties](8.-Filtering-properties.md)
