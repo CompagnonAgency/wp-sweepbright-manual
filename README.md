@@ -76,5 +76,3 @@ Our product is provided “as is” without warranty of any kind, expressed or i
 ## 4. Copyright
 
 Copyright (C) Compagnon Agency - All Rights Reserved.
-
-[[https://compagnon.agency/wp-content/themes/compagnon/assets/img/sweepbright.png | width=150px | alt=Compagnon SweepBright Certified Partner]]
