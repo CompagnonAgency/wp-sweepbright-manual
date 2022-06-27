@@ -21,7 +21,7 @@
 
 ### 1.3. Table of Contents
 
-1. [Changelog](1.-changelog)
+1. [Changelog](1.-changelog.md)
 2. [Installation](2.-installation)
 3. [Dashboard](3.-dashboard)
 4. [Settings](4.-settings)
