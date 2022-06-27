@@ -21,18 +21,17 @@
 
 ### 1.3. Table of Contents
 
-1. [Changelog](1.-Changelog)
-2. [Installation](2.-Installation)
-3. [Dashboard](3.-Dashboard)
-4. [Settings](4.-Settings)
-5. [Publishing in SweepBright](5.-Publishing-in-sweepbright)
-6. [Retrieving data](6.-Retrieving-data)
-7. [Helpers](7.-Helpers)
-8. [Filtering properties](8.-Filtering-properties)
-9. [Multilanguage](9.-Multilanguage)
-10. [License](License)
-11. [Support](Support)
-12. [Terms & Conditions](Terms-&-conditions)
+1. [Installation](2.-Installation.md)
+2. [Dashboard](3.-Dashboard.md)
+3. [Settings](4.-Settings.md)
+4. [Publishing in SweepBright](5.-Publishing-in-sweepbright.md)
+5. [Retrieving data](6.-Retrieving-data.md)
+6. [Helpers](7.-Helpers.md)
+7. [Filtering properties](8.-Filtering-properties.md)
+8. [Multilanguage](9.-Multilanguage.md)
+9. [License](License.md)
+10. [Support](Support.md)
+11. [Terms & Conditions](Terms-&-conditions.md)
 
 ## 2. License
 
